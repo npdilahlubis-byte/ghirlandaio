@@ -8,7 +8,7 @@ NIM: 12402051010040
 ## Pendahuluan
 Resume ini berisi tentang hasil presentasi dari "Kelompok 1" yang dipresentasikan pada tanggal Rabu, 11 Maret 2026. Mereka membawakan kajian tentang buku "Homo Deus: Masa Depan Umat Manusia" yang sependapat saya buku itu menceritakan tentang umat manusia yang memiliki 2 kubu berbeda yang di mana manusia yang beragama akan berpikir kalau semua hal mustahil mereka kira mukjizat dan mengedepankan moral, sedangkan pihak sains yang berpikir kalau semua yang mustahil bisa dilakukan dengan kecanggihan teknologi tanpa adanya sihir atau hal mistis. 
 
-Pembahasan
+## Pembahasan
 Pada presentasi pertemuan kedua ada beberapa pertanyaan yang diberikan kepada presentator, yaitu bagaimana pola hubungan antara sains dan agama, jelaskan menggunakan data historis yang terverifikasi akar konfliknya pada pembabakan yunani, romawi, abad kegelapan, kebangkitan dan modern, jelaskan perbedaan metodologis dari konflik antara sains dan agama, dan berikan analisa mendalam dari konflik tersebut. Pada presentasi tersebut presentator selalu menyebutkan kalau keduanya tidak selalu menjadi musuh, tetapi bekerja dalam bidang yang berbeda di mana sains memahami bagaimana dunia bekerja, mereka percaya bahwa semua bisa dipecahkan dengan akal dan teknologi, sedangkan agama menjawab bagaimana manusia harus bertindak dengan kitab, masa lalu dan menggunakan moral untuk masalah yang mereka alami, tetapi walaupun seperti itu, agama memberikan sebuah makna, tujuan atau pedoman, dan nilai hidup yang bisa kita jalani untuk menjadi lebih baik.
 
 Akar historis yang disebutkan oleh presentator ada 5, yaitu:
