@@ -1,3 +1,6 @@
+nama:naufal fathir muhadjib
+NIM:12402051030036
+
 APA ITU ALGORITMA?
 
 Latar belakang
